@@ -1,7 +1,7 @@
 ## Message Box – Hello World
 
 This is my first UiPath automation workflow.
-It displays a message box with a welcome message to demonstrate basic RPA concepts.
+It displays a message box with a message to demonstrate basic RPA concepts.
 
 ## Output
 
